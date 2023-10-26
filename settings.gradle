@@ -1,0 +1,10 @@
+rootProject.name = "KotlinComponentWanAndroid"
+include ':app'
+include ':common'
+include ':service'
+include ':login'
+include ':home'
+include ':project'
+include ':personal'
+include ':webview'
+include ':dex'
